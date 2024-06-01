@@ -1,7 +1,3 @@
-# 唔好有任何期望班蝗蟲有人性或良知~
-# 潛藏於基因中的匪性~
-# 愈無知, 愈可笑~ XD
-
 import sklearn
 import math
 import numpy as np
